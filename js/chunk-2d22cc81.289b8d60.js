@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22cc81"],{f562:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"main"},[n("lottery-record")],1)},r=[],o=n("ab98"),a={name:"lottery-record-view",components:{lotteryRecord:o["a"]}},l=a,s=n("2877"),i=Object(s["a"])(l,c,r,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d22cc81.289b8d60.js.map
